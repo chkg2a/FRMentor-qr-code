@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [BitBucket](https://bitbucket.org/bruhmoment591023/qr-code-responsive/)
-- Live Site URL: [Netlify Live Preview](https://chkxrenne.xyz)
+- Live Site URL: [Netlify Live Preview](https://chk-qrcode-frmentor.netlify.app/)
 
 ## My process
 
